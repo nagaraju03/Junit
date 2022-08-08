@@ -110,6 +110,11 @@
             <artifactId>jacoco-maven-plugin</artifactId>
             <version>0.8.8</version>
         </dependency>
+            <dependency>
+    <groupId>com.microsoft.azure</groupId>
+    <artifactId>azure-storage-blob</artifactId>
+    <version>11.0.1</version>
+</dependency>
 
     </dependencies>
 
